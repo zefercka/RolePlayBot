@@ -978,4 +978,4 @@ async def on_member_remove(member):
     db.commit()
 
 
-client.run(('ODA3Njg4NDczNTM1ODQwMjg2.YB7ogg.f11Uk5M5AL6EkxxZwOJP4UdctKs'))
+client.run(('token'))
